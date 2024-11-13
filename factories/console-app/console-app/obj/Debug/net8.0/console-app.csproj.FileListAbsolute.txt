@@ -1,0 +1,14 @@
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/bin/Debug/net8.0/console-app
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/bin/Debug/net8.0/console-app.deps.json
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/bin/Debug/net8.0/console-app.runtimeconfig.json
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/bin/Debug/net8.0/console-app.dll
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/bin/Debug/net8.0/console-app.pdb
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/console-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/console-app.AssemblyInfoInputs.cache
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/console-app.AssemblyInfo.cs
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/console-app.csproj.CoreCompileInputs.cache
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/console-app.dll
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/refint/console-app.dll
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/console-app.pdb
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/console-app.genruntimeconfig.cache
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/ref/console-app.dll
