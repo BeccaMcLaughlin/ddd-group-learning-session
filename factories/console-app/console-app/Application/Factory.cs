@@ -7,11 +7,24 @@ namespace Application {
     {
         public IForge CreateForge(string ringToCreate)
         {
-            if (ringToCreate == "gold") {
-                return new MirkwoodForge();
+            IForge forge;
+
+            switch (ringToCreate)
+            {
+                case "gold":
+                    forge = new CelestialForge();
+                    break;
+                case "silver":
+                    forge = new MirkwoodForge();
+                    break;
+                case "platinum":
+                    forge = new MirrorstoneHallForge();
+                    break;
+                default:
+                    throw new Exception();
             }
 
-            throw new Exception();
+            return forge;
         }
     }
 }

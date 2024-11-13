@@ -12,3 +12,4 @@
 /Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/console-app.pdb
 /Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/console-app.genruntimeconfig.cache
 /Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/ref/console-app.dll
+/Users/beccamclaughlin/Work/group-learning/factories/console-app/console-app/obj/Debug/net8.0/console-app.sourcelink.json

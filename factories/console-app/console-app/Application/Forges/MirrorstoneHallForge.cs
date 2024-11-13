@@ -2,10 +2,10 @@ using Application.Interfaces;
 using Application.Rings;
 
 namespace Application.Forges {
-    class MirkwoodForge: IForge {
+    class MirrorstoneHallForge: IForge {
         public IRing ForgeRing()
         {
-            return new SilverRing();
+            return new PlatinumRing();
         }
     }
 }

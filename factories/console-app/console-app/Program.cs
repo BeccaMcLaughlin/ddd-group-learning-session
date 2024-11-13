@@ -4,9 +4,13 @@ using Application.Interfaces;
 Factory factory = new Factory();
 
 // Pass string I want
-string ringToCreate = "gold";
+List<string> ringsToCreate = ["gold", "silver", "platinum", "BLOOD"];
 
-IForge forge = factory.CreateForge(ringToCreate);
-IRing ring = forge.ForgeRing();
-Console.WriteLine(ring.ToString());
+foreach (string ringAsString in ringsToCreate)
+{
+    IForge forge = factory.CreateForge(ringAsString);
+    IRing ring = forge.ForgeRing();
+    Console.WriteLine(ring.ToString());
+}
+
 
